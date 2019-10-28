@@ -1,0 +1,102 @@
+@charset "ISO-8859-1";
+
+html { background-color: ghostwhite; height: 100%}
+h1 {color: cadetblue;
+	font-family: serif;}
+
+h2 {color: black; 
+	font-family: serif;}
+	
+h3 {color: black;
+	font-family: serif;
+	font-weight: lighter;}
+	
+#asideperfil { background-color: cadetblue; 
+       		   border-right: 3px;
+               float: left;
+               width: 300px;
+               height: 615px;
+               }
+
+#nomepagina {font-size: 80px; 
+			 text-align: center; 
+			 background-color: cadetblue; 
+			 color: black; 
+			 margin: 2px;}
+			 
+#asidelogin {float: left;
+		     width: 500px; 
+		     margin-top: 2px;
+		     margin-left: 2px;
+		     background-color: ghostwhite;
+		     font-family: serif;
+		     font-size: 15px;
+		     padding: 5px;	     
+		}
+#formulario {font-size: 17px;
+			 font-family: serif;}
+			 
+#legend {font-size: 23px;
+		 font-family: serif;}
+		 
+#linkcadastro { 
+			   font-family: serif; 
+			   font-size: 15px; 
+			   margin-top: 2px;
+			   margin-left: 502px;
+			   background-color: ghostwhite;
+			   padding-left: 30px;
+			   padding-top: 5px;
+			  	   
+}
+	
+#errologin {background-color: ghostwhite;}  
+#entrarlogin {background-color: ghostwhite;}
+			   
+#conexao {text-align: center;}
+
+figure { margin: 24px;}
+
+button { 
+	background-color: white; 
+	font-size: 18px; 
+	color: cadetblue; 
+	margin-left: 60px; 
+	height: 50px;
+	cursor: pointer;
+}
+
+ul {
+ 	list-style-type: none;
+ 	margin: 0;
+ 	padding: 0;
+ 	overflow: hidden;
+ 	background-color: #333;
+}
+
+li {
+ 	float: left;
+}
+
+li a {
+ 	display: block;
+ 	color: white;
+ 	text-align: center; 
+	font-size: 23px;
+ 	padding: 14px 82px;
+ 	text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+ 	background-color: #111;
+}
+
+
+.cor {
+	border-color:#000000;
+	}
+	
+	.vermelho {
+		border-color: #ff0000;
+	}
